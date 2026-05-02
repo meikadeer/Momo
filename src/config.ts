@@ -32,14 +32,14 @@ export const siteConfig: SiteConfig = {
 
 export const profileConfig: ProfileConfig = {
     avatar: "assets/Motues.jpg", // Relative to the /src directory. Relative to the /public directory if it starts with '/'
-    name: "Motues",
+    name: "小王",
     description: "Life is colorful!",
-    indexPage: "https://www.motues.top",
+    indexPage: "https://www.wangquan.cc",
     startYear: 2024,
 }
 
 export const licenseConfig: LicenseConfig = {
-	enable: true,
+	enable: false,
 	name: "CC BY-NC-SA 4.0",
 	url: "https://creativecommons.org/licenses/by-nc-sa/4.0/",
 };
