@@ -1,7 +1,7 @@
 ---
 title: 有的没的
 pubDate: 2008-05-11
-description: 热带风暴
+description: 经历了一场热带风暴
 category: 随笔
 image: ""
 draft: false
