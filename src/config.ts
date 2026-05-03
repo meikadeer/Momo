@@ -35,7 +35,7 @@ export const profileConfig: ProfileConfig = {
     name: "Quan",
     description: "Life is colorful!",
     indexPage: "https://www.wangquan.cc",
-    startYear: 2024,
+    startYear: 2008,
 }
 
 export const licenseConfig: LicenseConfig = {
