@@ -2,7 +2,7 @@
 title: 大雄宝殿妙对
 pubDate: 2009-05-09
 description: 写得真好
-category: 随笔  
+category: 摘抄
 image: ""  
 draft: false  
 slugId: momo/daxiongbaodianmiaodui
