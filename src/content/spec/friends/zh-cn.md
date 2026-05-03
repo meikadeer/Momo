@@ -9,6 +9,6 @@
     name: 'Quan',
     avatar: 'https://www.wangquan.cc/avatar.jpg',
     url: 'https://www.wangquan.cc',
-    description: 'Like River!'
+    description: 'stay hangry stay foolish'
 }
 ```
